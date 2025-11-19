@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ## About me
-I'm a graduate student in HITsz, Learn the knowledge related to big data development。
+I'm a graduate student in HITsz, an AI application development engineer。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZouR-Ma&theme=radical&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZouR-Ma&layout=compact)
